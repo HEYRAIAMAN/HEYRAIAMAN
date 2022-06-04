@@ -45,7 +45,7 @@
  <div> 
 
 ```javascript
-const ashish = {
+const Aman = {
     pronouns: "He" | "Him",
     code: ["Python", "C", "C++", "Java", "php"],
     askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
