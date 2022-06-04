@@ -97,5 +97,23 @@ const ashish = {
 </p>
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<br>
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heyraiaman&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
 
 
+ <br> 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/heyraiaman/count.svg" />  
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+Credits:[Aman Rai](https://github.com/heyraiaman)
+
+Last Edited on: 05/06/2022
