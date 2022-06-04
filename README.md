@@ -1,9 +1,6 @@
-### Hi  👋
-
-- 🔭 I’m currently working on python 30day/30project challenge
-- 🌱 I’m currently learning Data Science 
-- 💬 Ask me about 
-- 📫 How to reach me 
-- Instagram : [@amn_rai](https://www.instagram.com/amn_rai/)
-<img src ="https://github-readme-stats.vercel.app/api?username=HEYRAIAMAN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/heyraiaman">Aman Rai</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/heyraiaman/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+To+My+GitHub+Profile" /></a>
+</p>
