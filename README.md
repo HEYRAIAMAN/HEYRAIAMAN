@@ -37,3 +37,26 @@
     </p>
   </samp>
 </div>
+ <br><br>
+
+  <p align="center">
+  <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h1>
+</p>
+ <div> 
+
+```javascript
+const ashish = {
+    pronouns: "He" | "Him",
+    code: ["Python", "C", "C++", "Java", "php"],
+    askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
+    technologies: {
+        PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
+        frontEnd: ["HTML","CSS","JS",JINJA"],
+        backEnd: ["flask"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["API", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","JSON"]
+    },
+    OpenToWork: ["Data Scientist", "Data Analyst", "Data Engineer","Python Developer"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
