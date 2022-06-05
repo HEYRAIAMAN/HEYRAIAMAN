@@ -16,9 +16,6 @@
       <a href="https://www.linkedin.com/in/imamnrai/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="aman" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src=""
-         alt="azzar" height="30"/></a>
       <a href="https://mailto:aman.rai20000@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="aman" height="30"/></a>
@@ -26,9 +23,6 @@
   <p align="center">
       <a href="https://instagram.com/amn_rai" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="aman" height="30"/></a>
-      <a href="https://wa.me/+91 83020 98526" target="blank"><img align="center"
-         src=""
          alt="aman" height="30"/></a>
       <a href="https://twitter.com/imAmnrai" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
