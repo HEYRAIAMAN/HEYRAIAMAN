@@ -27,6 +27,9 @@
       <a href="https://twitter.com/imAmnrai" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="aman" height="30"/></a>
+       <a href="https://leetcode.com/amn_rai/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+         alt="aman" height="30"/></a>
       <br>
     </p>
   </samp>
